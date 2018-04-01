@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C81A3CF1-A2CE-4A38-B66C-59F5A713676D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCFB48C2-EA28-4573-8E3C-1A3E55E5DBB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B09C0663-BEAE-43C0-8031-55A213CE15B5",
+    "height": 537,
+    "width": 394,
+    "x": 1380,
+    "y": 182
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D612F0B2-8264-4942-9ACC-609AA0B459C1",
+      "overrideName": "7A64D8A0-0DA4-4231-9862-B440CEDF5F96_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/48fd08e70f1b21cd5550e23b5bc4e2ff6ba5e945",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53DBFEEB-87FA-4867-958F-69A7CEC692CB",
+      "overrideName": "889C669C-5ACD-47B0-8811-F5C1E3390E52_stringValue",
+      "value": "Points 57904"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDCDA07D-2778-40ED-9B60-C61AC9F0FA1A",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "Guitar Shelf"
+    }
+  ],
+  "overrides": {
+    "7A64D8A0-0DA4-4231-9862-B440CEDF5F96": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/48fd08e70f1b21cd5550e23b5bc4e2ff6ba5e945",
+      "_ref_class": "MSImageData"
+    },
+    "889C669C-5ACD-47B0-8811-F5C1E3390E52": "Points 57904",
+    "C57E3164-554A-46DA-B020-E415BC5AF37E": "Guitar Shelf"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE296E6F-793A-4BE9-8EEB-31E218E00F85",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1B46C9D-B4E2-412E-8742-926720B1F08C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F4520439-EAF5-4458-B8CD-9DF0FF438AFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 156,
+    "width": 1075,
+    "x": 150,
+    "y": 2042
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comment copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C238760-BD67-4C16-8289-26F6D20E20FE",
+      "overrideName": "97E49C14-88BC-4F22-9074-558635496353/ADD4EBE8-6766-47F6-956D-F106C479FAC2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cc418c48a5982f8ddb80e6bd97272ecaeb7efcda",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5976E617-5156-4E69-8117-4B263E206FD0",
+      "overrideName": "7BED34EA-9433-420A-BFA1-5710F8763101_stringValue",
+      "value": "Leona Castillo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7EEA8E5-6791-4589-9D4F-E8685973CA63",
+      "overrideName": "7BED34EA-9433-420A-BFA1-5710F8763101_stringValue",
+      "value": "Thomas Floyd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0667DE6C-C481-489E-BC75-4F425F3FE4C8",
+      "overrideName": "7BED34EA-9433-420A-BFA1-5710F8763101_stringValue",
+      "value": "Bess Bailey"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1979788A-B14A-43D4-805E-D301F7D4C600",
+      "overrideName": "4E72E645-EE4A-4ED6-A4C2-39560C99F873_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d7b2ac5dcbd6fb64e690a829352e200264ad4183",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "4E72E645-EE4A-4ED6-A4C2-39560C99F873": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/d7b2ac5dcbd6fb64e690a829352e200264ad4183",
+      "_ref_class": "MSImageData"
+    },
+    "7BED34EA-9433-420A-BFA1-5710F8763101": "Bess Bailey",
+    "97E49C14-88BC-4F22-9074-558635496353": {
+      "ADD4EBE8-6766-47F6-956D-F106C479FAC2": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cc418c48a5982f8ddb80e6bd97272ecaeb7efcda",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1A082573-F758-4475-9E0E-7BDAC554DF5B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

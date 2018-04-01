@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DCD07217-38BA-4DAA-8919-734C39C4F104",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC652029-8CD0-4D24-9224-074B837BA01E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AB67D3F-DD3E-4E9F-9FC9-482FB277BFDB",
+    "height": 250.5762711864407,
+    "width": 307,
+    "x": 921,
+    "y": 2
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pattern Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "56E761DC-7234-47C7-A75D-096ED466CA75",
+      "opacity": 0.1499999910593033
+    },
+    "do_objectID": "4C748F32-A0F3-4FA0-9064-4CD085ADFED8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "91C54F9F-ABF4-4518-B0EF-965BCC384151",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

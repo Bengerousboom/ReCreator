@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "97663A4E-1BBC-4F3C-A542-2EDBC73CA623",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F12401D3-FE3E-40D0-BE1F-BF26EF0D4E4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B791777-1AE6-4511-A06C-C5A97014EDED",
+    "height": 36,
+    "width": 154,
+    "x": 120,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tags Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C63226A-AB39-4457-A476-C0098AE88FD4",
+      "overrideName": "2090ECB4-FAD0-4F85-9F7E-9535AE775888_stringValue",
+      "value": "Toiletpaper"
+    }
+  ],
+  "overrides": {
+    "2090ECB4-FAD0-4F85-9F7E-9535AE775888": "Toiletpaper"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9954E6D5-7F60-4CDD-8A39-82D52C3709C5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B9A337B-F721-4BE3-A57B-CA1A6588317D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

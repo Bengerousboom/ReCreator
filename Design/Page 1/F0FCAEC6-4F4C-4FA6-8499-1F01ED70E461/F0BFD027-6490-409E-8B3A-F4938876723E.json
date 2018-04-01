@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F0BFD027-6490-409E-8B3A-F4938876723E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "672D13CB-5E2E-46B3-A8B3-A063D77885C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7DED8B9-C3B7-44E2-94FD-17D1EDB62109",
+    "height": 641,
+    "width": 394,
+    "x": 971,
+    "y": 182
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D612F0B2-8264-4942-9ACC-609AA0B459C1",
+      "overrideName": "7A64D8A0-0DA4-4231-9862-B440CEDF5F96_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7541044d8113d2136a696b36c1a1969625659ed3",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84318259-EDC0-4C03-8EEA-EF018D2C7D38",
+      "overrideName": "889C669C-5ACD-47B0-8811-F5C1E3390E52_stringValue",
+      "value": "Points 23971"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3250280D-B79E-4B6E-B77F-714A4CE4CCAC",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "There are many things that are important to catalog design. Your images must be sharp and appealing. Your text and even the font you use for the text is important. The cover page design and the design of your catalog’s product pages all play important roles in designing a catalog that will bring in new customers and sales.\n\nHowever none of the things mentioned above are more important than the type of paper you will choose to print your catalog on. The “feel” of your catalog is important to your potential customers. The longer they have your catalog in their hands, the more product they will buy. In this article I will go over some of the many paper choices you have to print your catalog on.\n\nFirst you need to decide if the cover will be the same paper as the rest of your catalog. In most cases the cover will be of heavier weight then the interior pages.\n\nSecond you will need to choose coated or uncoated paper for printing your catalog. Coated paper is for the glossier layouts and uncoated is more economical, but can still display your products well.\n\nSo you have two things to consider first, “Will it be glossy paper or not?”, “Will my cover be the same weight as the interior pages of my catalog?”\n\nOnce you have answered those two questions the next decision is what the weight of the paper will be. Most catalogs go with 60, 70, or 80 lb. weights. So it would be 60lb uncoated or coated, 70 lb. Coated or uncoated. 80 lb. Paper usually is only chosen for 80 lb. Weight and above. Also, not all paper is measured by weight. Some is measured by thickness or “points”.\n\nNow the above is really over-simplified. There are other types of special paper you can choose from. There is textured paper, photographic paper, and other more expensive paper to choose from if you are selling a high-end or expensive product.\n\nThere are also other considerations when choosing the paper your catalog will be printed on. Such as the method of printing you are going to choose.\n\nIf you are going to have your catalog printed on a hot-set web press, then you can choose uncoated or coated paper. The heat will dry the ink as it prints your catalog. If your printer uses a cold-set web press then the ink air-dries and is absorbed into the paper. A cold-set web press cannot print on coated paper.\n\nIf your printer uses a sheet-fed press then you can choose from any of the high quality papers they have available. The same goes for printers that do digital printing.\n\nIt will depend a lot on the printer you choose. You need to find out what type of paper is available and you will want to see samples of the paper to get a better idea of which one you want to print your catalog on. Also ask your printer to suggest the different types of paper they think will be the best for your catalog.\n\nHere is a list of some of the types of paper your printer may have available for you to choose from or may be able to order for you.\n\nDull Coated Paper\n\nMatte Coated Paper\n\nGlossy Coated Paper\n\nAntique Paper\n\nVellum Paper\n\nWove Paper\n\nSmooth Paper\n\nFelt Paper\n\nLinen Paper\n\nFiber-added Paper\n\nLaid Paper\n\nParchment\n\nFour things determine the quality of the paper, opacity, brightness, finish, and ppi. (Pounds per inch) Brightness affects the contrast and brilliance of the paper. It affects how your text will stand out on the pages of your catalog. Opacity is how much your ink is visible from the back of the page. If a paper is too opaque, your text and images from one page will be seen through onto another page that your customer is trying to read. The finish affects the feel of the pages and also how your images will look. The lower grade finishes produce grainier images while high quality finishes sharpen the look of your images.\n\nAsk your printer to provide you with samples or swatch booklets and a price list for printing your catalog on the various types of paper before you decide. You know what your budget is and paper is only one of the expenses you have to consider."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73276CD0-33ED-4F5D-8990-90E6B6A5D0CF",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "Austin Morales"
+    }
+  ],
+  "overrides": {
+    "7A64D8A0-0DA4-4231-9862-B440CEDF5F96": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/7541044d8113d2136a696b36c1a1969625659ed3",
+      "_ref_class": "MSImageData"
+    },
+    "889C669C-5ACD-47B0-8811-F5C1E3390E52": "Points 23971",
+    "C57E3164-554A-46DA-B020-E415BC5AF37E": "Austin Morales"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C085DA5F-129B-46D8-A35D-BEC0FD879EE9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1B46C9D-B4E2-412E-8742-926720B1F08C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C850E1E3-8AB7-430F-9B8C-8AF7E8C42C33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A83EC4D6-5597-4648-9A09-B560CFE9F9A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2DBDC268-916A-4F5E-B98E-8047E08EB093",
+    "height": 461,
+    "width": 394,
+    "x": 562,
+    "y": 812
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A37EC1F2-8115-4D2A-A6C9-A2467836BCCB",
+      "overrideName": "7A64D8A0-0DA4-4231-9862-B440CEDF5F96_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d548398701e9da0c04c4b224d4614fed8c1b1ab5",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "646AB0D2-AA72-4A45-A2E0-546165BBDA8A",
+      "overrideName": "889C669C-5ACD-47B0-8811-F5C1E3390E52_stringValue",
+      "value": "Points 11229"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "021D0FC2-3AF6-41EF-8FEB-A0EA6B701CC8",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "Affiliate marketing is the latest trend online. With so many products to sell and services to offer, sometimes displaying it on one site isn’t enough. Thus, advertisers or merchants need affiliates, some sites which are willing to display ads for a particular cost. On the other hand, this is an opportunity for potential affiliates to earn extra income online.\n\nThe easy way to earn from affiliate marketing is to join an affiliate marketing network. Joining poses several benefits to both the advertiser and the affiliate. For the advertisers, this opens a new door of opportunity to get more leads and sales, get higher return on investment and pay only for results. Affiliate marketing network lessens the risk of venturing into marketing without proper management and guidance.\n\nFor the affiliates, joining an affiliate network makes earning money online a whole lot easier. Instead of going after many merchants for payment, the affiliate has only one contact for all the advertisers. Aside from the convenience, the affiliate marketing network will also extend support to the affiliates. Affiliate Marketing Sectors\n\nAffiliate marketing will continually grow as the need for more sales and leads continue. People are beginning to look at this type of marketing as an important aspect of pushing websites forward. More and more websites and online businesses are looking into one day joining the ever growing affiliate marketing networks.\n\nThe common affiliate marketing sectors include financial services, travel, retail, telecoms, mobile, broadband, gaming and even online gambling. Because of the increasing number of affiliate interested websites, the number of affiliate marketing networks also drastically increased. This means there will be more networks competing against each other. UK Affiliate Marketing Networks\n\nAffiliate marketing has become the trend in UK, as well. There are already a number of UK based affiliate marketing networks. Who are the major UK affiliate marketing networks and which one should you join?\n\nThe major affiliate marketing networks in UK include advertising.com, affiliatefuture.com, affiliatemarketing.co.uk, affiliatewindow.com, affili.net, brandconversions.com, buy.at, clash-media.co.uk, cj.com, dgmaffiliates.com, onlinemediagroup.co.uk, paidonresults.com, primeq.co.uk, silvertap.com, smart-quotes.com, tradedoubler.com, webgains.com and zanox.com. This is according to e-consultancy report.\n\nThese affiliate marketing networks all vies for merchants and affiliates. They will get an override commission for the sales so it would be best to have more merchants and affiliates on the network. The standard override fee is 30% although that still depends on the network. But whatever network you choose, whether you are a merchant or an affiliate, as long as you set things up properly, you will still get your share of higher sales."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D932019A-314A-4FD4-B7B9-4819F5BB5D76",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "Brett Clark"
+    }
+  ],
+  "overrides": {
+    "7A64D8A0-0DA4-4231-9862-B440CEDF5F96": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/d548398701e9da0c04c4b224d4614fed8c1b1ab5",
+      "_ref_class": "MSImageData"
+    },
+    "889C669C-5ACD-47B0-8811-F5C1E3390E52": "Points 11229",
+    "C57E3164-554A-46DA-B020-E415BC5AF37E": "Brett Clark"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39B42D1A-355C-4181-803C-055AFD7C5EFB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1B46C9D-B4E2-412E-8742-926720B1F08C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

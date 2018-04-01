@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "51F60F30-2ACC-4F8E-9A39-382870EA4F9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B838507-3B18-41F8-9A41-A3DF570D8D32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F55DC43B-D6F5-4304-AECE-B962D8AEDF66",
+    "height": 26,
+    "width": 53,
+    "x": 149,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tags Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4360787F-DC67-4D18-8B8B-2CD536C1840D",
+      "overrideName": "1FFA8F7D-4845-4702-918A-86B731763F67_stringValue",
+      "value": "Screws"
+    }
+  ],
+  "overrides": {
+    "1FFA8F7D-4845-4702-918A-86B731763F67": "Screws"
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00F8F124-5893-4497-817A-45D01D95BE17",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C83276AE-60B1-4667-AFD2-A043C36F1F42",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

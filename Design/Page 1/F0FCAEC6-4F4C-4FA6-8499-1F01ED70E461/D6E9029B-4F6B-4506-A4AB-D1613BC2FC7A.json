@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D6E9029B-4F6B-4506-A4AB-D1613BC2FC7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 713,
+    "width": 394,
+    "x": 154,
+    "y": 182
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A37EC1F2-8115-4D2A-A6C9-A2467836BCCB",
+      "overrideName": "7A64D8A0-0DA4-4231-9862-B440CEDF5F96_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/629e0a32bdf1387475a88e7a27c1694f65a1802a",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCEF5E25-AFB5-4BCC-A751-806B319516A0",
+      "overrideName": "889C669C-5ACD-47B0-8811-F5C1E3390E52_stringValue",
+      "value": "Points 24482"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12BB42DF-6575-44BC-8D8B-49D31763A5A2",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "A successful marketing plan relies heavily on the pulling-power of advertising copy. Writing result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take action. There is no magic formula to write perfect ad copy; it is based on a number of factors, including ad placement, demographic, even the consumer’s mood when they see your ad. So how is any writer supposed to pen a stunning piece of advertising copy — copy that sizzles and sells? The following tips will jumpstart your creative thinking and help you write a better ad.\n\nKNOW THE BASICS\n\nAll good advertising copy is comprised of the same basic elements. Good advertising copy always:\n\nGrabs Attention: Consumers are inundated with ads, so it’s vital that your ad catches the eye and immediately grabs interest. You could do this with a headline or slogan (such as VW’s “Drivers Wanted” campaign), color or layout (Target’s new colorful, simple ads are a testimony to this) or illustration (such as the Red Bull characters or Zoloft’s depressed ball and his ladybug friend). Promises Credible Benefit: To feel compelled by an ad, the consumer must stand to gain something; the product is often not enough. What would the consumer gain by using your product or service? This could be tangible, like a free gift; prestige, power or fame. But remember: you must be able to make good on that promise, so don’t offer anything unreasonable.\n\nKeeps Interest: Grabbing the consumer’s attention isn’t enough; you have to keep that attention for at least a few seconds. This is where your benefits come into play or a product description that sets your offer apart from the others.\n\nGenerates Action: This is the ultimate point of advertising copy — it must make the reader react in some way. This doesn’t necessarily translate to buying the product immediately or using the service. Your ad could be a positioning tool to enable the reader to think about you in a certain light. Speak to your audience, or the audience you’d like to reach, and you’ll be surprised how frequently they come to you in the future.\n\nKNOW THE MEDIUM\n\nHow you write your advertising copy will be based on where you will place your ad. If it’s a billboard ad, you’ll need a super catchy headline and simple design due to the speed at which people will pass. Online ads are similar; consumers are so inundated with Internet advertising that your ad must be quick and catchy. Magazine advertising is the most versatile, but this is solely dependent on the size of your ad and how many other ads compete with yours. If you have a full page ad, feel free to experiment; more page space gives you more creative space. If the ad is tiny, you’ll need to keep things as simple as possible.\n\nKNOW THE STYLE\n\nAdvertising copy is a unique type of writing. Its point is to balance creativity and readability into something persuasive and entertaining. Keep the following points in mind when you write your copy:\n\nBe Succinct: There are few things more damaging to an ad campaign than messy wordiness. Use short sentences with as many familiar words as possible; save the thesaurus for a thesis or dissertation. Always make sure to use precise phrasing (why use five adjectives when one good action verb would do?); and eliminate any redundancies, such as “little tiny” or “annual payments of $XXX per year.”\n\nTalk To Your Audience, Not At Them: Though you are announcing the availability of a product or service, avoid being clinical or overly formal. Write as if you’re talking to your ideal customer; use a style they’d use, words they’d be familiar with, slang they’d probably know. But be absolutely certain that you’re using these terms and phrases correctly. A recent McDonald’s campaign attempted to reach a certain audience by using the phrase “I’d hit it” in reference to a cheeseburger, unaware that the phrase is almost always used as a sexual reference.\n\nAvoid Clich      "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4037F717-0B65-4BC0-A40A-9830838AAB2E",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "Iva Greer"
+    }
+  ],
+  "overrides": {
+    "7A64D8A0-0DA4-4231-9862-B440CEDF5F96": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/629e0a32bdf1387475a88e7a27c1694f65a1802a",
+      "_ref_class": "MSImageData"
+    },
+    "889C669C-5ACD-47B0-8811-F5C1E3390E52": "Points 24482",
+    "C57E3164-554A-46DA-B020-E415BC5AF37E": "Iva Greer"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1B46C9D-B4E2-412E-8742-926720B1F08C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

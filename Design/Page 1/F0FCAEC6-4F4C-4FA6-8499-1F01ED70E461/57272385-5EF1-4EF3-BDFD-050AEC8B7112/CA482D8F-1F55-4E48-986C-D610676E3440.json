@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CA482D8F-1F55-4E48-986C-D610676E3440",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 134,
+    "x": 499,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tags Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2090ECB4-FAD0-4F85-9F7E-9535AE775888_stringValue",
+      "value": "Tag 8000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B36807B-56DA-49D7-BC63-945AC21D5CA2",
+      "overrideName": "AA8824FA-1965-4314-A643-3D185C5EC61C_symbolID",
+      "value": "C67690FF-DC1F-439C-A922-03FC43CE912C"
+    }
+  ],
+  "overrides": {
+    "2090ECB4-FAD0-4F85-9F7E-9535AE775888": "Tag 8000",
+    "AA8824FA-1965-4314-A643-3D185C5EC61C": {
+      "symbolID": "C67690FF-DC1F-439C-A922-03FC43CE912C"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B9A337B-F721-4BE3-A57B-CA1A6588317D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

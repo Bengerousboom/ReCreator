@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "79BA4D68-5A84-415B-B7FC-2024589CCEDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01C2A726-4778-42B0-9B50-DF6E18F4F665",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14AA5B4C-51AE-4B42-8805-5A029D3A4834",
+    "height": 461,
+    "width": 394,
+    "x": 1380,
+    "y": 767
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A37EC1F2-8115-4D2A-A6C9-A2467836BCCB",
+      "overrideName": "7A64D8A0-0DA4-4231-9862-B440CEDF5F96_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cc734d20d9022b8941fa8ee8277dac2832275d5d",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF1F7FDA-3095-4D68-B118-291FFC3F9A49",
+      "overrideName": "889C669C-5ACD-47B0-8811-F5C1E3390E52_stringValue",
+      "value": "Points 50643"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE6D42C2-6F70-4DEF-8258-DABF20CF4B21",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "Research in advertising is done in order to produce better advertisements that are more efficient in motivating customers to buy a product or a service. The research can be based on a particular advertising campaign or can be more generalized and based on how advertisements create an effect on people’s mind. Lots of approaches are involved to go about conducting an advertising research like economical, psychological, demographical and sociological. \n\nWhen designing an advertisement for a particular product many things should be researched like where it should be displayed, whether the advertisement can be printed in newspapers or magazines or broadcasted on television or radio or published on the Internet. Many methods are undertaken to collect relevant information. The research itself is of two kinds, syndicated and customized. Syndicated research is a single research done by the company that is available to other companies as well. Customized research is research based on certain criteria and is done for a particular company and its results are available to only that company. Pre-testing or copy testing is a type of customized research that determines the in-market efficiency of an advertisement before it is released or before the final production. The more the pre-testing is done the more likely that it will be a successful advertisement and each pre-testing should be applied number of times. This can done by studying the level of attention the customers have, motivation, brand linkage, communication and entertainment. Flow of emotions and flow of attention are broken down and studied individually. The results are applied on the advertisement that is still being developed to recognize the weak points and replace them. A reliable feedback loop can guide the researchers, client and the agency to work in harmony. Tests should be applied during the storyboard stage of ad making. This is an early stage and the results are highly predictive. During this process images are selected and used as integrated campaign print ad.\n\nPost-testing or ad tracking studies are either syndicated or customized. Studies are done over a period of time or continuously. The in-market research is done to understand a brands linkage, performance, awareness, and preference along with product attitudes and usage. They are done by, conducting interviews either on phone or Internet. Testing the finished advertisement provides the confidence and gives an idea whether it is following the strategy. All the above studies should facilitate the client’s advertisement development make the end product easier to achieve. The study should contain rational information having not only surface knowledge but also provide deep in-sight that will open window to a customer’s mind. The customer, too, should provide precise information based on facts and not based on imaginary thinking and self-delusion. He should be able to explain the role of advertisement in the whole marketing plan. Working in vacuum doesn’t get the desired result. \n\nThe basis is to provide in-depth understanding about the consumers for improving on the advertisement techniques and other marketing decisions. The traditional methods of qualitative and quantitative techniques have been improved to analyze the information with good insight. The rapidly changing likes and needs of the customers are difficult to track, but should be studied in order to increase the quality of advertisement. The changes are because of the huge number of options offered to them by the market."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9ADDD788-09F9-4C5B-9BD9-11186FA3DFEB",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "Allie Ryan"
+    }
+  ],
+  "overrides": {
+    "7A64D8A0-0DA4-4231-9862-B440CEDF5F96": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/cc734d20d9022b8941fa8ee8277dac2832275d5d",
+      "_ref_class": "MSImageData"
+    },
+    "889C669C-5ACD-47B0-8811-F5C1E3390E52": "Points 50643",
+    "C57E3164-554A-46DA-B020-E415BC5AF37E": "Allie Ryan"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "667C6DCC-E786-4549-B83D-A1B12D22C271",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1B46C9D-B4E2-412E-8742-926720B1F08C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1C39F5F7-13F3-4ECD-AE0C-0CFA22C9B2BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38874B9C-ABD3-4973-8CA3-91D950C17668",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F18D5D5B-DDB1-4816-BBB1-87D0ACB106C0",
+    "height": 156,
+    "width": 1075,
+    "x": 150,
+    "y": 1354
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comment copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C7AAEC9-628F-4CD1-873F-184D04F4EBF3",
+      "overrideName": "97E49C14-88BC-4F22-9074-558635496353/ADD4EBE8-6766-47F6-956D-F106C479FAC2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cc418c48a5982f8ddb80e6bd97272ecaeb7efcda",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EF65178-42A6-478E-AC0B-0AE8729879EE",
+      "overrideName": "7BED34EA-9433-420A-BFA1-5710F8763101_stringValue",
+      "value": "Lela Herrera"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0E78047-7310-4D2D-A5E6-C5B29EA5CDA3",
+      "overrideName": "7BED34EA-9433-420A-BFA1-5710F8763101_stringValue",
+      "value": "Carrie Neal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B23D5BF8-BE5E-4362-AB84-33CED7BF1A6B",
+      "overrideName": "4E72E645-EE4A-4ED6-A4C2-39560C99F873_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b1d8a94fa7fa9212376c51c2b268bd010c2d558b",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "4E72E645-EE4A-4ED6-A4C2-39560C99F873": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/b1d8a94fa7fa9212376c51c2b268bd010c2d558b",
+      "_ref_class": "MSImageData"
+    },
+    "7BED34EA-9433-420A-BFA1-5710F8763101": "Carrie Neal",
+    "97E49C14-88BC-4F22-9074-558635496353": {
+      "ADD4EBE8-6766-47F6-956D-F106C479FAC2": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cc418c48a5982f8ddb80e6bd97272ecaeb7efcda",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "991072F8-414A-479A-B1F7-382452FF2408",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1A082573-F758-4475-9E0E-7BDAC554DF5B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

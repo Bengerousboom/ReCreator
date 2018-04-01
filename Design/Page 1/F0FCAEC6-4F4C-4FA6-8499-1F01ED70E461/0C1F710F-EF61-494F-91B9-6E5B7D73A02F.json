@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0C1F710F-EF61-494F-91B9-6E5B7D73A02F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BFFE52F-6A38-455A-A20D-2A1E0D8A0F5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E4B3271-F207-490C-97B1-07B33523C0BE",
+    "height": 461,
+    "width": 394,
+    "x": 971,
+    "y": 871
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A37EC1F2-8115-4D2A-A6C9-A2467836BCCB",
+      "overrideName": "7A64D8A0-0DA4-4231-9862-B440CEDF5F96_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8b6695edb47adbcd26a4a29e11dd352b97b0f994",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5003A8BB-DEAC-4C97-806A-DCE5752A42BE",
+      "overrideName": "889C669C-5ACD-47B0-8811-F5C1E3390E52_stringValue",
+      "value": "Points 67825"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B97C457-3271-4161-A685-F2A37F7E1D23",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "What is your attitude as a small town businessman when it comes to advertising or taking help of an advertising design agency to provide creative design solutions? I bet, more often than not it is on the lines of “What ever is left over, we’ll use for advertising”. Well, you are not alone. Most of the small town businessmen treat advertising as such, as they feel that they know most of their customers who will come back, advertising or not. Fair enough, but what if you have a competitor within the town or even without in the form of E-commerce ensuring doorstep delivery and definitely much larger choice. You getting the point?\n\nCompetition or not, you always need to remind your customers that you are there and what value you bring to them. This way you not only ensure that loyal customers remain so, but you net new customers. Remember marketing and advertising is an investment, not an expense. Without enough money put aside for advertising your sales can go down and you suddenly have less and less for promotion. You advertise most when you need business. You advertise more when you don’t.\n\nA small-budget advertiser doesn’t have the ”deep pockets” to develop big advertising campaigns or go for top shot advertising design agency. In this case you need to break the rules to be noticed. Avis did it by admitting they were “Number 2″ in the car rental business and that campaign took them from 6th place to second place.\n\nNow you must be wondering is there any sure shot way of advertising which not only is cost effective but has maximum impact. To be sure, there isn’t any readymade formula for bull’s eye hitting creative design solutions but this article proffers some tips to get this sort of marketing in place. Before we get to the tips let’s look at the basic strategies of successful advertising.\n\n* In order to be successful, your advertising must provide a consumer benefit or solve a problem.\n\n* That benefit or solution must be wanted by the consumer.\n\n* The product or service you are offering must be tied directly to that benefit or solution.\n\n* The benefit or solution must be distinctly communicated through medial advertising. In other words, be clear, forget the advertising glitz and make sure the message isn’t lost in the ad.\n\nAverage cost of advertising is usually 1 to 5% of gross sales, which can vary according to location, local advertising rates, and industry. Budget conscious advertisers must achieve top results for their advertising dollar. Expand your dollars by adopting some creative techniques.\n\nSome Tips\n\n* Place your ads in off hours or in unusual locations on discounted rates. This will help you in containing the cost. Many times you can still reach your target market with these spots.\n\n* Instead of a one-time big splash ad, be consistent with frequent small ads that work to keep reminding your customers of your presence.\n\n* Consider advertising in regional issues of national magazines. The costs are lower and you can reach your target market. TV Guide is also a good choice. It stays around for at least a week.\n\n* Sponsor a community event if you can like a fun-run, golf tournament, or other event that will be well publicized in the community. Your name may not be prominently displayed but sometimes the positive exposure in the community will bring in new customers.\n\n* Exploit the media you choose to the fullest. If your message is verbal, you don’t need TV. Use radio, billboards and newspapers to the fullest.\n\n* Consider direct mail. A letter and brochure before customer contact can increase business.\n\n*Hire an advertising design agency which might not be top of the heap, but can get creative and specializes in interactive campaigns to provide you with creative design solutions.\n\nI hope these tips will help your business grow. Not all may be relevant to your particular situation. Hopefully, they will illustrate the importance to plan and control your advertising budget."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C151850-7E35-4275-ADEB-B74C32B4A4F9",
+      "overrideName": "C57E3164-554A-46DA-B020-E415BC5AF37E_stringValue",
+      "value": "Lena Parks"
+    }
+  ],
+  "overrides": {
+    "7A64D8A0-0DA4-4231-9862-B440CEDF5F96": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/8b6695edb47adbcd26a4a29e11dd352b97b0f994",
+      "_ref_class": "MSImageData"
+    },
+    "889C669C-5ACD-47B0-8811-F5C1E3390E52": "Points 67825",
+    "C57E3164-554A-46DA-B020-E415BC5AF37E": "Lena Parks"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA3CDA38-7BC6-465A-87D8-E487854CDA04",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1B46C9D-B4E2-412E-8742-926720B1F08C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
